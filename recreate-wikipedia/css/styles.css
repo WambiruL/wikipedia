@@ -1,0 +1,15 @@
+img{
+    border-radius: 20px;
+}
+.sidebar{
+    float: left;
+}
+.jumbotron{
+    padding: 6px;
+}
+img{
+    float: left;
+}
+#image{
+    float: right;
+}
