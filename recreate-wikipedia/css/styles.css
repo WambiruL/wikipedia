@@ -1,6 +1,3 @@
-img{
-    border-radius: 20px;
-}
 .sidebar{
     float: left;
 }
@@ -8,8 +5,22 @@ img{
     padding: 6px;
 }
 img{
-    float: left;
+    float: right;
 }
 #image{
-    float: right;
+    float: left;
+}
+.border{
+    float: left;
+    border: 2px lightblue;
+    background-color: wheat;
+    border-style: hidden;
+    width: inherit;
+}
+.border2{
+    float: left;
+    border: 2px;
+    background-color: lightpink;
+    border-style: hidden;
+    width: inherit;
 }
